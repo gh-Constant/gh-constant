@@ -11,8 +11,6 @@
 
 <div align="center">
  
- 🧟 I’m currently working on **Extinction** | [Discord](https://discord.gg/PgHvPkDzUS) and [Group](https://www.roblox.com/groups/5955799/DevilGames#!/about) |
- 
  🌱 I’m currently learning **C++, JavaScript**
 
 💬 Contact me on Discord(constantsuchet) 
