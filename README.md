@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **C++, JavaScript**
 
-💬 Contact me on Discord(constantsuchet) 
+💬 Contact me on Discord(gh-constant) 
 
 
  </div>
