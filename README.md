@@ -42,7 +42,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,cursor,github" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,github" />
     <img src="https://skillicons.dev/icons?i=lua,ts,rust" /><br>
 </div>
 
