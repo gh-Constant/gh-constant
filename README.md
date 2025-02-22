@@ -1,9 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ConstantDevs.ConstantDevs" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=25&duration=4000&pause=1&color=6A2DFF&center=true&random=false&width=435&lines=ConstantDevs;Lua+Developer" />
-</h1>
-
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/1342473842257559614/1342474384459173930/Capture_decran_2025-02-21_a_13.32.34.png?ex=67bb15b3&is=67b9c433&hm=33f9aa2d8e87900be42ace25dc59f7882a501d93c5ac9bd49680f16a1356cb9f&" width="800"/>
 </div>
