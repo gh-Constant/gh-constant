@@ -28,10 +28,10 @@
   <a href="mailto:constant.suchet@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/constant-such-2851b52a1" target="_blank">
+  <a href="https://www.linkedin.com/in/constant-suchet-031145213" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
- <a href="https://www.constantsuchet.fr" target="_blank">
+ <a href="https://portfolio.chronosync.constantsuchet.fr" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
