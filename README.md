@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=lua,ts,rust" /><br>
+    <img src="https://skillicons.dev/icons?i=lua,ts" /><br>
 </div>
 
 <br/>
